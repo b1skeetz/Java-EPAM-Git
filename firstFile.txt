@@ -1,7 +1,7 @@
 Added firstFile.txt to me
 Added aboba.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
+Added another firstFile.txt to git_1
+Updated firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
