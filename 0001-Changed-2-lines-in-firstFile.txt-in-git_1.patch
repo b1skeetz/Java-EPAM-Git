@@ -1,0 +1,24 @@
+From b31e208b8a93cf75b83a4c6c5ea36223d85f16ce Mon Sep 17 00:00:00 2001
+From: Damir Kadyrzhanov <damirk120404@gmail.com>
+Date: Sat, 2 Mar 2024 21:06:48 +0600
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 488d4d9..e5c5e2a 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Added firstFile.txt to me
++Added aboba.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-- 
+2.40.0.windows.1
+
